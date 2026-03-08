@@ -2,9 +2,9 @@
         <div class="container">
             <h1 class="mb-0">
                 <?php
-            $world = "Welt 2";
-            echo "Hallo " . $world . "!";
-          ?>
+                $world = "Welt der PHP-Programmierung";
+                echo (string) "Hallo " . $world . "!";
+            ?>
             </h1>
         </div>
     </header>
